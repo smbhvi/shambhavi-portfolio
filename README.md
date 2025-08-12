@@ -59,4 +59,4 @@ This project is built with:
 - Tailwind CSS
 
   ## For Deploying this project
-  -Connect netflify with github 
+  -Connect netlify with github 
