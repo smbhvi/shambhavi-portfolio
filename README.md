@@ -57,3 +57,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+  ## For Deploying this project
+  -Connect netflify with github 
